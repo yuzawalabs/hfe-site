@@ -9,11 +9,8 @@ GitHub Pages（Project Pages）前提で、以下の固定ページを公開す�
 - `/` : ランディング（アプリ概要・主要リンク）
 - `/support/` : サポート窓口
 - `/privacy-policy/` : プライバシーポリシー
-
-## 追加候補（必要になったら）
-
 - `/terms/` : 利用規約
-- `/contact/` : 問い合わせフォーム/連絡先
+- `/legal/` : 特定商取引法に基づく表示
 
 ## 実装方針
 
@@ -33,3 +30,5 @@ GitHub Pages（Project Pages）前提で、以下の固定ページを公開す�
 - `https://<GitHubユーザー名>.github.io/hfe-site/`
 - `https://<GitHubユーザー名>.github.io/hfe-site/support/`
 - `https://<GitHubユーザー名>.github.io/hfe-site/privacy-policy/`
+- `https://<GitHubユーザー名>.github.io/hfe-site/terms/`
+- `https://<GitHubユーザー名>.github.io/hfe-site/legal/`
